@@ -1,4 +1,4 @@
-# MeWatch_IFN557_Assignment1
+# MeWatch An Ecommerce Site
 
 ### This is an ecommerce website's front end prototype.
 
